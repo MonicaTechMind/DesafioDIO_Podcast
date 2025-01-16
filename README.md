@@ -25,3 +25,5 @@ o formato do roteiro deve ser
 - Não use muitos termos técnicos
 - Não ultrapasse 5 minutos de duração
 
+- Link do Audio: https://github.com/MonicaTechMind/DesafioDIO_Podcast/blob/main/ElevenLabs_2025-01-16T13_49_57_Adeline_pvc_s97_sb95_se0_b_m2.mp3
+
